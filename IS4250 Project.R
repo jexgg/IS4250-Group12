@@ -1,5 +1,3 @@
-library(QuantPsyc)
-
 dataset = read.csv("PIRI_metab_Dryad.csv", header = T)
 View(dataset)
 attach(dataset)
